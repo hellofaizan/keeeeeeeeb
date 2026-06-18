@@ -1,0 +1,15 @@
+# KiCad
+*-backups/
+*_saved_files*/
+*.kicad_prl
+*.lck
+*.log
+fp-info-cache
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fusion 360
+*.f3z
+*.bak
