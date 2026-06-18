@@ -6,6 +6,8 @@
 *.log
 fp-info-cache
 
+ #auto_saved_files#
+
 # OS
 .DS_Store
 Thumbs.db
